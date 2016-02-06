@@ -29,7 +29,7 @@
 	font-size: 80px;
 }
 
-p {
+.bkg-marg {
 	padding-top: 50px;
 }
 
@@ -39,5 +39,22 @@ p {
 	height: 400px;
 	margin-bottom: 0;
 	text-align: center;
+
+}
+
+ul li {
+	display: inline;
+	font-size: 20px;
+	padding-right: 20px;
+	
+}
+
+.bkg-grey {
+	height: 100px;
+	background-color: #141414;
+	color: white;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
 
 }
